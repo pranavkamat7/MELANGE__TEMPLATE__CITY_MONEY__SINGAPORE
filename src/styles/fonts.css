@@ -1,0 +1,29 @@
+/* Self-hosted fonts with font-display: swap for optimal performance */
+
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/bricolage-grotesque-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/bricolage-grotesque-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/bricolage-grotesque-bold.woff2') format('woff2');
+}
+
+body {
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
