@@ -54,11 +54,11 @@ export function ProcessMapSection() {
   }, []);
 
   const steps = [
-    { number: '01', title: 'Discover', deliverable: 'Audit, research, opportunity mapping', timeframe: 'Week 1' },
-    { number: '02', title: 'Strategy', deliverable: 'Commercial keyword and acquisition planning', timeframe: 'Week 2' },
-    { number: '03', title: 'Build', deliverable: 'Campaigns, landing pages, tracking systems', timeframe: 'Weeks 3-4' },
-    { number: '04', title: 'Launch', deliverable: 'Controlled rollout and optimisation', timeframe: 'Week 5' },
-    { number: '05', title: 'Scale', deliverable: 'Authority growth and performance expansion', timeframe: 'Ongoing' },
+    { number: '01', title: 'Market Diagnostic', deliverable: 'Before we make any recommendations, we understand everything about your business, including the unique Singapore search opportunities that are now open to you.', timeframe: 'Week 1' },
+    { number: '02', title: 'Growth Architecture', deliverable: 'Your audit findings become your growth blueprint. We design the exact system that will build your authority and generate qualified leads.', timeframe: 'Week 2' },
+    { number: '03', title: 'Build', deliverable: 'Campaigns are all fully built and evaluated before launch, ensuring that everything works and results are measurable from the start.', timeframe: 'Weeks 3-4' },
+    { number: '04', title: 'Launch', deliverable: 'Controlled rollout and immediate optimisation against qualified lead targets from the moment the campaign goes live.', timeframe: 'Week 5' },
+    { number: '05', title: 'Scale', deliverable: 'As your system evolves, we increase your coverage, strengthen sector authority, and improve efficiency, adding to your competitive edge with each quarter of operation.', timeframe: 'Ongoing' },
   ];
 
   return (
@@ -74,14 +74,14 @@ export function ProcessMapSection() {
         {/* Header */}
         <div className={`text-center mb-16 lg:mb-20 fade-in-up ${isVisible ? 'visible' : ''}`}>
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.1] mb-6">
-            <span className="text-white">How We Build Growth in </span>
+            <span className="text-white">Our Growth </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              London
+              Process
             </span>
           </h2>
           
           <p className="text-[18px] md:text-[20px] text-white/80 max-w-[750px] mx-auto leading-[1.6]">
-            Every phase is measured against qualified lead volume and pipeline value, not impressions or traffic alone.
+            A structured engagement built for Downtoan Singapore's market, from understanding your business to compounding your market position.
           </p>
         </div>
 

@@ -70,19 +70,19 @@ export function ServiceSnapshotSection() {
     {
       title: "Organic Search Authority",
       description:
-        "Technical SEO, authority content and structured link building are designed to earn first-page positions for the London search terms that bring qualified buyers, not just curious browsers.",
+        "Technical SEO and authority content built to earn first-page positions in Singapore's key commercial search terms, putting your business in front of buyers who are actively looking for your services.",
       color: "#D540FF",
     },
     {
-      title: "Google Ads & Paid Acquisition",
+      title: "Paid Search",
       description:
-        "Paid search campaigns for businesses, structured around commercial intent, controlled CPCs and a clear line between ad spend and revenue generated.",
+        "Google Ads manages every kwacha of Singapore's spend against business intent, with accurate audience targeting, daily optimisation, and comprehensive cost-per-qualified-lead data.",
       color: "#7F4EFF",
     },
     {
       title: "Conversion Architecture",
       description:
-        "Landing pages and funnels built to convert qualified traffic into leads and leads into clients. Every page has a job. Each page has a purpose, and every step is measured.",
+        "Conversion systems that make every visitor more valuable, including landing page design, lead capture architecture, and CRO frameworks designed particularly to turn qualified search traffic into signed business.",
       color: "#3858FF",
     },
   ];
@@ -105,13 +105,13 @@ export function ServiceSnapshotSection() {
           id="Work"
         >
           <h2 className="text-[42px] md:text-[56px] lg:text-[68px] font-bold text-white mb-6 leading-[1.05] tracking-tight">
-            What We Build for{" "}
+            Digital Marketing Services Created for{" "}
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              London Businesses
+              Singapore’s Growth
             </span>
           </h2>
           <p className="text-[18px] md:text-[20px] lg:text-[22px] text-[#CBD5E1] leading-relaxed max-w-3xl mx-auto">
-            A full growth stack consists of an integrated system of SEO, paid media, and conversion architecture working as one engine.
+            From organic search visibility to paid lead generation and conversion techniques designed specifically for the competitive Singapore market.
           </p>
         </div>
 

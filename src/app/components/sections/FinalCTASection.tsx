@@ -82,9 +82,9 @@ export function FinalCTASection() {
             className={`text-5xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight ${titleVisible ? "opacity-100" : "opacity-0"}`}
             style={{ transition: "opacity 0.5s ease-in-out" }}
           >
-            <span className="text-white">Ready to Scale in </span>
+            <span className="text-white">Ready to Grow Your Business in </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Singapore?
+              Central Singapore?
             </span>
           </h2>
 
@@ -92,8 +92,9 @@ export function FinalCTASection() {
             className={`text-xl md:text-2xl text-[#CBD5E1] max-w-3xl mx-auto mb-12 leading-relaxed ${subtitleVisible ? "opacity-100" : "opacity-0"}`}
             style={{ transition: "opacity 0.5s ease-in-out" }}
           >
-            Let's build a structured search and paid growth engine aligned with
-            real commercial outcomes and long-term expansion in the Singapore.
+            Let's create a disciplined digital marketing approach for your
+            Singapore firm that generates qualified leads and establishes the
+            market authority in Central Singapore
           </p>
 
           <div

@@ -87,7 +87,7 @@ export function Footer() {
     { label: "United Kingdom", href: "https://melangedigital.co/uk" },
     { label: "United Arab Emirates", href: "https://melangedigital.co/uae" },
     { label: "Singapore", href: "https://melangedigital.co/singapore" },
-    { label: "Africa", href: "https://melangedigital.co/africa" },
+    { label: "Zambia", href: "https://melangedigital.co/zambia" },
   ];
 
   return (

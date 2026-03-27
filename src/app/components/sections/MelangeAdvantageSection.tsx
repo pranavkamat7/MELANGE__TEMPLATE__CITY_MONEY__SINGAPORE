@@ -4,18 +4,18 @@ import { PrimaryButton } from '@/app/components/buttons/PrimaryButton';
 
 const advantages = [
   {
-    title: 'Commercial Intent Planning',
-    description: 'Keyword and acquisition strategy built around real buyer behaviour in London, not informational traffic that fails to convert.',
+    title: 'Intent-Led Acquisition',
+    description: "Every keyword and every paid term is mapped to a specific commercial intent, so your marketing budget targets buyers at the exact moment they're ready to choose a provider.",
     gradient: 'from-[#D540FF] to-[#7F4EFF]'
   },
   {
-    title: 'Search Authority Engine',
-    description: 'Structured SEO systems designed to build durable rankings, topical authority, and long-term visibility in competitive sectors.',
+    title: 'The SEO System That Puts Singapore Businesses First',
+    description: "Technical SEO, topical content, and local search authority are structured specifically for the market and designed to compound your visibility advantage as the market matures.",
     gradient: 'from-[#7F4EFF] to-[#3858FF]'
   },
   {
-    title: 'Paid Growth That Scales',
-    description: 'Media buying optimised for profitability, efficiency, and sustainable customer acquisition.',
+    title: 'Google Ads for Businesses in Singapore',
+    description: "Paid search is designed for Singapore's market reality, with daily optimization against cost-per-qualified-lead, targeting precision created for Singapore's buyer demographics, and CPCs tuned to local search volumes.",
     gradient: 'from-[#D540FF] to-[#3858FF]'
   }
 ];
@@ -88,12 +88,12 @@ export function MelangeAdvantageSection() {
         {/* Headline */}
         <div className={`text-center mb-8 lg:mb-12 fade-in-up ${isVisible ? 'visible' : ''}`}>
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-white">A Smarter Growth Model for </span>
-            <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">London</span>
+            <span className="text-white">The Commercial Growth </span>
+            <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Model Singapore Needs</span>
           </h2>
           
           <p className="text-[18px] md:text-[20px] lg:text-[22px] text-[#CBD5E1] leading-relaxed max-w-3xl mx-auto">
-            We focus on commercial outcomes, qualified lead generation, and sustainable acquisition cost rather than vanity metrics or short-term traffic spikes.
+            Businesses should have access to digital marketing firms that gauge their success using the same metrics as their clients. From the beginning, we base every interaction on those metrics.
           </p>
         </div>
 

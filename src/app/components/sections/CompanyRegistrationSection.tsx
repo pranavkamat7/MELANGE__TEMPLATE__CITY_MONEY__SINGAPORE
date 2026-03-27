@@ -71,7 +71,7 @@ export function CompanyRegistrationSection() {
                     </h2>
                     <div className="w-12 h-[2px] bg-gradient-to-r from-[#D540FF] to-[#7F4EFF]" />
                     <p className="text-sm font-semibold text-gray-600 uppercase tracking-wider mt-3">
-                      United Arab Emirates
+                      Singapore
                     </p>
                   </div>
                 </div>
@@ -82,23 +82,14 @@ export function CompanyRegistrationSection() {
                     Registered Office
                   </p>
                   <p className="text-base lg:text-lg font-semibold text-gray-900 leading-tight mb-2">
-                    SPC Free Zone <span className="text-gray-500 font-normal">(Sharjah)</span>
+                     Address:  <span className="text-gray-500 font-normal">Central Downtown Singapore</span>
                   </p>
-                  <p className="text-sm text-gray-600 leading-relaxed">
-                    Servicing clients in Singapore, Abu Dhabi, and across all seven Emirates
-                  </p>
+                  
                 </div>
 
                 {/* Column 3 — Trust & Contact */}
                 <div className={`space-y-6 fade-in-up ${contactVisible ? 'visible' : ''}`}>
-                  <div>
-                    <p className="text-[10px] font-bold uppercase tracking-[0.15em] mb-3 spectral-drift">
-                      Official Member
-                    </p>
-                    <p className="text-sm text-gray-700 leading-relaxed">
-                      French Chamber of Commerce and Industry 
-                    </p>
-                  </div>
+                  
                   
                   {/* CTA Button with Gradient */}
                   <div>

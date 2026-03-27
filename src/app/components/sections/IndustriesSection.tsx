@@ -4,11 +4,11 @@ import { PrimaryButton } from "@/app/components/buttons/PrimaryButton";
 import { Check } from "lucide-react";
 
 const industries = [
-  "Real Estate (Off-Plan & Secondary Market)",
-  "Healthcare & Medical Services",
-  "Hospitality & Luxury Brands",
-  "Finance & Professional Services",
-  "Education & Professional Training",
+  "Hospitality & Tourism",
+  "Banking & Financial Services",
+  "Healthcare & Wellbeing",
+  "Property & Real Estate",
+  "Education & Training",
   "B2B, Technology & Ecommerce",
 ];
 
@@ -104,9 +104,9 @@ export function IndustriesSection() {
           className={`text-center max-w-[900px] mx-auto mb-14 lg:mb-16 fade-in-up ${isVisible ? "visible" : ""}`}
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight text-[#0B0B12] mb-6">
-            Industries We Support in{" "}
+            Designed for Singapore's {" "}
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Singapore
+              key sectors
             </span>
           </h2>
         </div>
@@ -156,8 +156,7 @@ export function IndustriesSection() {
           <p
             className={`text-base md:text-lg text-gray-600 leading-relaxed fade-in-up ${supportingVisible ? "visible" : ""}`}
           >
-            Serving ambitious companies across all sectors seeking measurable
-            growth in competitive Singapore markets.
+            Central Singapore's most economically engaged industry, with organized digital marketing separating the leaders from the followers.
           </p>
         </div>
 

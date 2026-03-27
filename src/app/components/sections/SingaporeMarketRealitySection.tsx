@@ -5,23 +5,23 @@ import { PrimaryButton } from '@/app/components/buttons/PrimaryButton';
 const marketRealities = [
   {
     number: '01',
-    title: 'Local intent and Maps visibility drive discovery',
-    description: 'Geographic visibility in Google Maps and local search is critical for capturing high-intent Singapore customers.'
+    title: 'Google Maps and Local Search Drive Discovery',
+    description: "More Singapore buyers are turning to Google to find services and most local businesses haven't optimised for it. The brands that build search visibility now will capture the demand that competitors aren't seeing yet."
   },
   {
     number: '02',
-    title: 'Premium competition exists in every sector',
-    description: 'Singapore markets are saturated with well-funded brands competing aggressively for the same search terms.'
+    title: 'Companies that Establish Authority Will Own Their Categories',
+    description: "In a market where adoption of digital marketing is still expanding and search keyword difficulty is still low, firms that spend in paid media and structured SEO now are creating advantages that compound and are costly for latecomers to catch up."
   },
   {
     number: '03',
-    title: 'Trust signals matter more than raw traffic volume',
-    description: 'Authority, reviews, and credibility indicators determine who converts visitors into customers.'
+    title: 'Google Reviews and Digital Credibility Drives Traffic',
+    description: "Singapore's growing digital buyer base checks Google reviews, websites, and online presence before calling. Your digital credibility infrastructure must be working before your marketing spend does."
   },
   {
     number: '04',
-    title: 'Execution must be fast, multi-channel, and precise',
-    description: 'Success requires coordinated SEO, paid media, and conversion optimization working in sync.'
+    title: 'Market Rewards Consistency Over Campaigns',
+    description: 'The leading digital brands are those with the most reliable systems. Every quarter or every year, a consistent, well-organized online presence outperforms infrequent campaign activity.'
   }
 ];
 
@@ -94,15 +94,15 @@ export function SingaporeMarketRealitySection() {
           className={`text-center mb-8 lg:mb-12 fade-in-up ${isVisible ? 'visible' : ''}`}
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-black">Marketing in </span>
+            <span className="text-black">Marketing In </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Singapore</span>
             <br />
-            <span className="text-black">Is Different</span>
+            <span className="text-black">Rewards The Bold</span>
           </h2>
           
           {/* Supporting text */}
           <p className="text-[18px] md:text-[20px] lg:text-[22px] leading-[1.6] text-black/70 max-w-[900px] mx-auto mb-8">
-            Leading Digital Marketing Agency in Singapore is a high-trust, high-competition environment where buyers compare instantly and authority determines visibility. Generic marketing fails. Precision execution wins.
+             Singapore's digital landscape is growing fast, and the businesses building digital authority now are the ones who will dominate their sectors for the next decade. The window for first-mover advantage is open.
           </p>
         </div>
 

@@ -62,7 +62,7 @@ export function TrustStripSection() {
     "Multi-market campaign execution",
     "Performance-driven acquisition strategy",
     "Long-term client relationships",
-    "Multi-market capability- London and UK-wide",
+    "Pan execution",
   ];
 
   return (
@@ -94,27 +94,31 @@ export function TrustStripSection() {
             {/* Left side - Main message */}
             <div className={`fade-in-up ${isVisible ? "visible" : ""}`}>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.05] mb-6 md:mb-8">
-                <span className="text-black">Trusted by Growing Businesses</span>
+                <span className="text-black">The Singapore City Agency</span>
                 <br />
                 <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-                  Across London
+                  Built For Aspirations
                 </span>
               </h2>
 
               <div className="space-y-4 mb-8">
                 <p className="text-lg md:text-xl lg:text-[22px] leading-relaxed text-black/90">
-                  Mihir Shah, (Regional Director, UK) with a deep understanding of the UK market, is in charge in London. Our Leading digital marketing London agency is built around one principle: every pound of marketing spend should return more than it costs. We work with ambitious London businesses that are done with agencies that track impressions and miss revenue.
+                  Mélange Digital brings international digital marketing
+                  expertise to Central Area Singapore, led locally by Sanket
+                  Bolinjkar (Regional Director & CEO, Mélange Digital), who
+                  understands Singapore’s business culture, market dynamics, and
+                  what it actually takes to grow a business in this city.{" "}
                 </p>
 
                 <p className="text-base md:text-lg text-black/70 leading-relaxed">
-                  Every engagement is built around qualified leads, real revenue impact, and partnerships built to last.
+                  We work with companies in Singapore Cities to develop digital marketing strategies that produce qualified leads, establish brand authority, and increase revenue beyond digital activities.
                 </p>
               </div>
 
               {/* CTA Button */}
               <div>
                 <a
-                  href="https://calendly.com/mihir-melangedigital-wytn/30min"
+                  href="https://cal.id/sanket-bolinjkar/discovery-call"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

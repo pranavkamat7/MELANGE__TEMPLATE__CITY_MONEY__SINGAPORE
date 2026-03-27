@@ -49,16 +49,16 @@ export function SEOAuthoritySection() {
           className={`text-center mb-14 lg:mb-16 fade-in-up ${isVisible ? "visible" : ""}`}
         >
           <h2 className="text-[42px] md:text-[56px] lg:text-[68px] font-bold text-white mb-6 leading-[1.05] tracking-tight">
-            SEO in London Is an{" "}
+            SEO in Singapore Is an{" "}
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
               Authority Game
             </span>
           </h2>
           <p className="text-[18px] md:text-[20px] lg:text-[22px] text-[#CBD5E1] leading-relaxed max-w-4xl mx-auto">
-            Ranking in London requires structured content, local intent
-            targeting, technical optimisation, and trust signals that compound
-            over time to create sustainable visibility and consistent inbound
-            demand.
+            The majority of Singapore companies don't have a strong SEO
+            strategy. As a result, the commercial keyword market is truly open
+            to companies that take the lead. This is a narrow window, and we
+            help you take it.
           </p>
         </div>
 
@@ -96,7 +96,7 @@ export function SEOAuthoritySection() {
         {/* CTA Button */}
         <div className="flex justify-center">
           <a
-            href="https://calendly.com/mihir-melangedigital-wytn/30min"
+            href="https://cal.id/sanket-bolinjkar/discovery-call"
             target="_blank"
             rel="noopener noreferrer"
           >

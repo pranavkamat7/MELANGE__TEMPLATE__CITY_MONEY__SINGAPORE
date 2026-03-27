@@ -10,24 +10,24 @@ interface FAQItem {
 
 const faqs: FAQItem[] = [
   {
-    question: 'How much does SEO cost in Singapore?',
-    answer: 'Pricing varies based on competition, scope, and growth objectives, with proposals aligned to realistic timelines and measurable outcomes.',
+    question: 'How much does SEO cost in Central Singapore?',
+    answer: "Pricing varies based on competition, scope, and growth objectives, with proposals aligned to realistic timelines and measurable outcomes.",
   },
   {
     question: 'How fast can results appear?',
-    answer: 'Paid acquisition can generate leads quickly, while SEO builds momentum over several months depending on competitiveness.',
+    answer: "Paid acquisition can generate leads quickly, while SEO builds momentum over several months depending on competitiveness.",
   },
   {
     question: 'Do you manage Google Ads?',
-    answer: 'Yes. Campaigns are structured for qualified lead generation, cost efficiency, and measurable return.',
+    answer: "Yes. Campaigns are structured for qualified lead generation, cost efficiency, and measurable return.",
   },
   {
-    question: 'Why hire a Singapore-focused partner instead of an offshore team?',
-    answer: 'Local execution ensures cultural understanding, regulatory awareness, and strategies aligned with real Singaporean buyer behaviour.',
+    question: 'Why hire a Singapore city focused partner instead of an offshore team?',
+    answer: "Local execution ensures cultural understanding, regulatory awareness, and strategies aligned with real Singapore city buyer behaviour.",
   },
   {
     question: 'Do you provide reporting?',
-    answer: 'Every engagement includes transparent tracking and clear performance reporting.',
+    answer: "Every engagement includes transparent tracking and clear performance reporting.",
   },
 ];
 
@@ -143,9 +143,9 @@ export function SingaporeFAQSection() {
         {/* Header */}
         <div className={`max-w-4xl mx-auto text-center mb-16 md:mb-20 fade-in-up ${isVisible ? 'visible' : ''}`}>
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-black">Common Questions About </span>
+            <span className="text-black">Questions About Growing a  </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Digital Marketing in Singapore
+              Business Digitally in Singapore
             </span>
           </h2>
         </div>

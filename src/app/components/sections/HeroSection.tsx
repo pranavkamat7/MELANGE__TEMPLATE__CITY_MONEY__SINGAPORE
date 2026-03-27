@@ -77,8 +77,7 @@ export function HeroSection() {
       </HeroHeadline>
 
       <HeroSubcopy>
-        Mélange Digital is the best digital marketing agency in Singapore, helping ambitious companies generate qualified leads, increase revenue, and scale through SEO, paid media, and conversion-focused strategy built specifically for the Singapore market.
-      </HeroSubcopy>
+        We help businesses in Central Business District Singapore acquire qualified leads and increase revenue with SEO, Google Ads, and conversion strategies. Developing strategies that help buyers find, compare, and decide.      </HeroSubcopy>
 
       <HeroActions>
         <div className="flex flex-col sm:flex-row gap-5 justify-center items-center mb-3 md:mb-4">
@@ -135,10 +134,10 @@ export function HeroSection() {
 
         <MicroLabel className="mt-3 md:mt-6 mb-12 md:mb-0">
           <span className="block spectral-snake">
-            Helping Singapore brands rank for commercial search terms
+            STRUCTURED DIGITAL MARKETING FOR BUSINESSES 
           </span>
           <span className="block mt-1 spectral-snake">
-            that generate real enquiries, not vanity traffic.
+            THAT MEASURE SUCCESS IN REVENUE AND REAL GROWTH.
           </span>
         </MicroLabel>
       </HeroActions>
